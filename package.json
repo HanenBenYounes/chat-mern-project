@@ -1,7 +1,7 @@
 {
   "name": "chat-mern-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "mern chat app",
   "main": "server.js",
   "scripts": {
     "start": "nodemon backend/server.js"
